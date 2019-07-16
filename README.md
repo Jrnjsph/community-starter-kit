@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+DESCRIPTION JERIN
 
 ## What it does
 
-FEATURES PLACEHOLDER
+FEATURES Joseph
 
 ## Getting started
 
