@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION JERIN
+JERIN
 
 ## What it does
 
-FEATURES Joseph
+Joseph
 
 ## Getting started
 
